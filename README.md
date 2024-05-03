@@ -1,4 +1,3 @@
-<html>
 <head>
   <meta charset='utf-8' />
   <title>Digital Twins in Europe</title>
@@ -249,4 +248,3 @@ map.setFog({
 
   </script>
 </body>
-</html>
